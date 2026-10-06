@@ -11,6 +11,10 @@ public class Student {
 	{
 		System.out.println("student displayed");
 	}
+	public void welcomeStudent()
+	{
+		System.out.println("welcome student");
+	}
 	
 
 }
