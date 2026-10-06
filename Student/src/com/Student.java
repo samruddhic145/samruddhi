@@ -7,6 +7,10 @@ public class Student {
 	public void RemoveStudent(){
 		System.out.println("Student removed");
 	}
+	public void displayStudent()
+	{
+		System.out.println("student displayed");
+	}
 	
 
 }
